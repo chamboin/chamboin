@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chamboin
 - 👀 I’m interested in Server, electronic scavenger, AI, embedded, etc.
-- 🌱 I’m currently finding a job.
 - 💻 [blog](https://chamboin.tk) or [githubpage](https://chamboin.github.io)
 - 📫 chamboin@outlook.com or ichamboin@gmail.com
 <!-- - 💞️ I’m looking to collaborate on whatever opensource. -->
